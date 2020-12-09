@@ -1,6 +1,6 @@
  ![Kaan](https://raw.githubusercontent.com/cetinkaan/cetinkaan/master/kaan.gif)
 <p>
-  <h1 align="center"><b>Hello there, I'm Kaan👋</b></h1>
+  <h1 align="center"><b>Hello there, I'm Kaan 👋</b></h1>
 </p>
 
 <p>
