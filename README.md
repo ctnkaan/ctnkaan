@@ -1,4 +1,4 @@
- ![Kaan](https://raw.githubusercontent.com/MaViYboct/MaViYboct/master/kaan.gif)
+ ![Kaan](https://raw.githubusercontent.com/cetinkaan/cetinkaan/master/kaan.gif)
 <p>
   <h1 align="center"><b>Hello there, I'm Kaan👋</b></h1>
 </p>
@@ -61,10 +61,10 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=MaViYboct&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Kaan's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cetinkaan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Kaan's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaViYboct&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Kaan's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinkaan&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Kaan's Top Languages">
 
 <br>
 
-![Matrix](https://raw.githubusercontent.com/MaViYboct/MaViYboct/master/matrix.svg)
+![Matrix](https://raw.githubusercontent.com/MaViYboct/cetinkaan/master/matrix.svg)
