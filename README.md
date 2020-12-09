@@ -67,4 +67,4 @@
 
 <br>
 
-![Matrix](https://raw.githubusercontent.com/MaViYboct/cetinkaan/master/matrix.svg)
+![Matrix](https://raw.githubusercontent.com/cetinkaan/cetinkaan/master/matrix.svg)
