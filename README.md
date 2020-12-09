@@ -1,4 +1,4 @@
- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+ ![Kaan](https://raw.githubusercontent.com/MaViYboct/MaViYboct/master/kaan.gif)
 <p>
   <h1 align="center"><b>Hello there, I'm Kaan👋</b></h1>
 </p>
