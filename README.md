@@ -29,7 +29,7 @@
 - 🏭 My dream is to work at a FAANG company
 - 💬 I love doing research about CS and IT
 - 📬 You can feel free to add me on LinkedIn
-- 🧡 I am the Chairman of the IEEE Computer Society of my university
+- 🧡 I am the Chairman of the IEEE CS in my university
 - 😊 I am a CS50x Fellow at Kodluyoruz
 
 <br>
