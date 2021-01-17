@@ -1,4 +1,4 @@
- ![Kaan](https://raw.githubusercontent.com/cetinkaantaskingenc/cetinkaantaskingenc/master/kaan.gif)
+ ![Kaan](https://raw.githubusercontent.com/ctnkaan/ctnkaan/master/kaan.gif)
 <p>
   <h1 align="center"><b>Hello there, I'm Kaan 👋</b></h1>
 </p>
@@ -14,8 +14,8 @@
 <p align="center">
 <br>
 <a href="https://www.facebook.com/kaantaskingencc"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>&nbsp;
-<a href="https://instagram.com/cetinkaantaskingenc"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/cetinkaantaskingenc/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://instagram.com/ctnkaan"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/ctnkaan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:kaan.taskingenc@gmail.com?subject=Hello%20Kaan"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
@@ -61,10 +61,10 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=cetinkaantaskingenc&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Kaan's Github Stats" width="60%">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ctnkaan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Kaan's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cetinkaantaskingenc&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Kaan's Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctnkaan&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Kaan's Top Languages">
 
 <br>
 
-![Matrix](https://raw.githubusercontent.com/cetinkaantaskingenc/cetinkaantaskingenc/master/matrix.svg)
+![Matrix](https://raw.githubusercontent.com/c/ctnkaan/master/matrix.svg)
