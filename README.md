@@ -67,4 +67,4 @@
 
 <br>
 
-![Matrix](https://raw.githubusercontent.com/c/ctnkaantaskingenc/master/matrix.svg)
+![Matrix](https://github.com/ctnkaan/ctnkaan/blob/main/matrix.svg)
