@@ -1,6 +1,13 @@
- ![Kaan](https://raw.githubusercontent.com/ctnkaan/ctnkaan/master/kaan.gif)
+ ![Kaan](https://raw.githubusercontent.com/ctnkaan/ctnkaan/main/kaan.gif)
 <p>
-  <h1 align="center"><b>Hello there, I'm Kaan 👋</b></h1>
+  <details align="center">
+<summary> <b> <samp> --------------------> 🔥 Click Here to Light bonfire 🔥 <-------------------- </samp></b></summary>
+<samp>
+ <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
+
+ <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
+</samp>
+</details> 
 </p>
 
 <p>
@@ -8,7 +15,8 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/MaViYboct" />
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{ctnkaan}/count.svg" alt="ctnkaan :: Visitor's Count" /></p>
 </p>
 
 <p align="center">
@@ -20,15 +28,6 @@
 </p>
 
 <br>
-
-<summary> <b> <samp> Light bonfire </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
- </samp>
- 
- <br>
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
 
@@ -51,7 +50,7 @@
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> 
 
-<!--<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />-->
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
@@ -70,10 +69,18 @@
 
 ### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ctnkaan&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Kaan's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctnkaan&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Kaan's Top Languages">
+<div align="center">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctnkaan&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=ctnkaan&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
+<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ctnkaan&theme=dracula">
+<img src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
+<div>
 
 <br>
 
 ![Matrix](https://github.com/ctnkaan/ctnkaan/blob/main/matrix.svg)
+ 
+ Credits:
+ [KasRoudra](https://github.com/KasRoudra)
+ [AnhellO](https://github.com/AnhellO)
+ [TanZng](https://github.com/TanZng)
