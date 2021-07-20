@@ -10,10 +10,6 @@
 </details> 
 </p>
 
-<p>
-  <h4 align="center"><b>"Welcome to my profile !"</b></h4>
-</p>
-
 <p align="center">
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{ctnkaan}/count.svg" alt="ctnkaan :: Visitor's Count" /></p>
