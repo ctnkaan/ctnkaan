@@ -38,13 +38,15 @@
 
 <br>
 
-### Languages and Tools: 
+<h1 align="center">Languages and Tools <h1>
 
 <p>
+ <div align="center">
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+ 
   <br />
  
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
@@ -63,14 +65,12 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  </div>
 </p>
 
 <br>
-<br>
-<br>
-<br>
 
-### :zap: Github Stats
+<h1 align="center">GitHub Stats <h1>
 
 <div align="center">
 <img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctnkaan&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
