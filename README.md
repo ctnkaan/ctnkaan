@@ -1,15 +1,7 @@
  ![Kaan](https://raw.githubusercontent.com/ctnkaan/ctnkaan/main/kaan.gif)
-<p>
-  <details align="center">
-<summary> <b> <samp> --------------------> 🔥 Click Here to Light bonfire 🔥 <-------------------- </samp></b></summary>
-<samp>
- <b><h2 style="color: #fc6203">B O N F I R E &nbsp; L I T !</h2> </b>
-
+<div align="center">
  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
-</samp>
-</details> 
-</p>
-
+</div>
 <p align="center">
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{ctnkaan}/count.svg" alt="ctnkaan :: Visitor's Count" /></p>
