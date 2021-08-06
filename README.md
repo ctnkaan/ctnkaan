@@ -70,6 +70,8 @@
 <img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ctnkaan&theme=dracula">
 <img src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
 <div>
+ 
+ ![](https://activity-graph.herokuapp.com/graph?username=ctnkaan&theme=react-dark&area=true)
 
 <br>
   
