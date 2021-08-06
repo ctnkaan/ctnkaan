@@ -1,4 +1,4 @@
- ![Kaan](https://github.com/ctnkaan/ctnkaan/blob/e15d07952867d01995adb9bebb7b842c9d9ffdab/welcome.gif)
+ ![Kaan](https://github.com/ctnkaan/ctnkaan/blob/451f7d4f45bfc14fbd794121ebfa04d44c6181b9/kaan.gif)
 <div align="center">
  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
@@ -63,18 +63,35 @@
 <br>
 
 <h1 align="center">GitHub Stats <h1>
-
-<div align="center">
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctnkaan&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite">
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=ctnkaan&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=ctnkaan&theme=dracula">
-<img src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
-<div>
+ <br>
  
- ![](https://activity-graph.herokuapp.com/graph?username=ctnkaan&theme=react-dark&area=true)
+ <br>
+  <p align=center>
+    <div align=center>
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=ctnkaan&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ctnkaan&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
+    <br><br><br><br><br>
+    <div align=center>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctnkaan&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      </a>
+    </div>
+    <br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=ctnkaan&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+   
+     
+  </p>
+   <br>
+ <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
+<div>
+
 
 <br>
-  
-![Roomba](https://github.com/ctnkaan/ctnkaan/blob/b5ee3ef9f807d970c6dc514c9b0c97d3bd426b91/roomba.gif)
  
-![Matrix](https://github.com/ctnkaan/ctnkaan/blob/main/matrix.svg)
+![Matrix](https://github.com/ctnkaan/ctnkaan/blob/451f7d4f45bfc14fbd794121ebfa04d44c6181b9/peko.gif)
