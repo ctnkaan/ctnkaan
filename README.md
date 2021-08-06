@@ -1,4 +1,4 @@
- ![Kaan](https://raw.githubusercontent.com/ctnkaan/ctnkaan/main/kaan.gif)
+ ![Kaan](https://github.com/ctnkaan/ctnkaan/blob/e15d07952867d01995adb9bebb7b842c9d9ffdab/welcome.gif)
 <div align="center">
  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
