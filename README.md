@@ -20,45 +20,59 @@
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
 
 ### I am a Management Information Systems Student with a Software Engineering minor
-- 💻 I am developing my skills in Web Development
-- ⚛️ I’m currently learning MERN Stack Development.
-- 🏭 My dream is to work at a FAANG company
-- 💬 I love doing research about CS and IT
-- 📬 You can feel free to add me on LinkedIn
-- 🧡 I am the Chairman of the IEEE CS in my university
-- 😊 I am a CS50x Fellow at Kodluyoruz
+💻 I am developing my skills in Web Development <br>
+I'm also a:
+- 🟥🟩 Microsoft Learn Student Ambassador <br>
+  🟦🟨
+- 🚀 Postman Student Leader & Postman Student Expert 
+- ⚛️ Chairman of the IEEE CS in my university
+- 📬 Kodluyoruz Mentor
+- 📚 Yaşar University Community Classroom Leader
 
 <br>
 
-<h1 align="center">Languages and Tools <h1>
+## ⚡ Technologies
 
-<p>
- <div align="center">
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
- 
-  <br />
- 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <br />
-  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <br />
- 
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  </div>
-</p>
+### Language :
+![Java](https://img.shields.io/badge/-java-orange?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-white?style=flat-square&logo=Python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+
+### Databases :
+![MySQL](https://img.shields.io/badge/-MySQL-red?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
+### Libraries & Framework :
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-pink?style=flat-square&logo=Express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Django](https://img.shields.io/badge/-Django-311C87?style=flat-square&logo=Django)
+![Material UI](https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?logo=material-UI&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-yellow?style=flat-square&logo=EJS)
+
+### DevOps :
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+
+### Tools :
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/npm-red.svg?logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/Yarn-blue.svg?logo=yarn&logoColor=white)
+
+### Operating Systems :
+![Windows](https://img.shields.io/badge/Windows-blue.svg?logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg?logo=ubuntu&logoColor=white)
 
 <br>
 
