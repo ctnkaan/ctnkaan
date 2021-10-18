@@ -26,8 +26,9 @@ I'm also a:
   🟦🟨
 - 🚀 Postman Student Leader & Postman Student Expert 
 - ⚛️ Chairman of the IEEE CS in my university
-- 📬 Open Source Lover
-- 📚 Yaşar University Community Classroom Leader
+- 📚 Undergraduate Teaching Assistant
+- 📬 Lead Project Coordinator of the IEEE in my university
+- 🔉 Voice of Code Management Lead
 
 <br>
 
