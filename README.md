@@ -20,7 +20,7 @@
  <img src="https://tryhackme-badges.s3.amazonaws.com/ctnkaan.png" alt="TryHackMe" />
 </div>
 
-### I'm Çetin Kaan. A software Developer that is interested in DevOps, DevRel and Security.
+### I'm Çetin Kaan. A software Developer that is interested in Web, DevOps, DevRel and Security.
 I'm member of many different communities such as:
 - 🟥🟩 Microsoft Learn Student Ambassador <br>
   🟦🟨
