@@ -1,4 +1,4 @@
- ![Kaan](https://github.com/ctnkaan/ctnkaan/blob/451f7d4f45bfc14fbd794121ebfa04d44c6181b9/kaan.gif)
+<h1 align="center"> Hey there 👋 </h1>
 <div align="center">
  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 </div>
@@ -16,18 +16,17 @@
 </p>
 
 <br>
+<div align="center">
+ <img src="https://tryhackme-badges.s3.amazonaws.com/ctnkaan.png" alt="TryHackMe" />
+</div>
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" />
-
-### I am a Management Information Systems Student with a Software Engineering minor
-💻 I am developing my skills in Web Development <br>
-I'm also a:
+### I'm Çetin Kaan. A software Developer that is interested in DevOps, DevRel and Security.
+I'm member of many different communities such as:
 - 🟥🟩 Microsoft Learn Student Ambassador <br>
   🟦🟨
 - 🚀 Postman Student Leader & Postman Student Expert 
-- ⚛️ Chairman of the IEEE CS in my university
-- 📚 Undergraduate Teaching Assistant
-- 📬 Lead Project Coordinator of the IEEE in my university
+- ⚛️ Chairman of the IEEE YU Computer Society
+- 📬 Lead Project Coordinator of the IEEE YU Computer Society
 - 🔉 Voice of Code Management Lead
 
 <br>
@@ -48,21 +47,23 @@ I'm also a:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-### Libraries & Framework :
+### Front-end :
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express](https://img.shields.io/badge/-Express-pink?style=flat-square&logo=Express)
-![GraphQL](https://img.shields.io/badge/-GraphQL-white?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![Django](https://img.shields.io/badge/-Django-311C87?style=flat-square&logo=Django)
 ![Material UI](https://img.shields.io/badge/Material%20UI%20-%230081CB.svg?logo=material-UI&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-yellow?style=flat-square&logo=EJS)
+
+### Back-end :
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=Express)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-black?style=flat-square&logo=apollo-graphql)
 
 ### DevOps :
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
@@ -74,7 +75,6 @@ I'm also a:
 ### Operating Systems :
 ![Windows](https://img.shields.io/badge/Windows-blue.svg?logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-orange.svg?logo=ubuntu&logoColor=white)
-
 <br>
 
 <h1 align="center">GitHub Stats <h1>
@@ -103,8 +103,3 @@ I'm also a:
    <br>
  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=ctnkaan&theme=onedark">
 <div>
-
-
-<br>
- 
-![Matrix](https://github.com/ctnkaan/ctnkaan/blob/451f7d4f45bfc14fbd794121ebfa04d44c6181b9/peko.gif)
