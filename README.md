@@ -17,10 +17,10 @@
 
 <br>
 <div align="center">
- <img src="https://tryhackme-badges.s3.amazonaws.com/ctnkaan.png" alt="TryHackMe" />
+ test
 </div>
 
-### I'm Çetin Kaan. A software Developer that is interested in Web, DevOps, DevRel and Security.
+### I'm Çetin Kaan. A software Developer that is interested in Web Development, Cybersecurity and DevRel.
 I'm member of many different communities such as:
 - 🟥🟩 Microsoft Learn Student Ambassador <br>
   🟦🟨
