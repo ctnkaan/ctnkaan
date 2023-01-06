@@ -75,5 +75,5 @@ Hi, I'm [Çetin Kaan Taşkıngenç](https://linkedin.com/in/cetinkaantaskingenc)
 </div>
 
 <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=ctnkaan&theme=react-dark&bg_color=20232a&hide_border=true" width="92%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ctnkaan&bg_color=20232a&color=5cceed&line=5cceed&point=ffffff&area=true&hide_border=true" width="92%"/>
 
