@@ -77,3 +77,4 @@ Hi, I'm [Çetin Kaan Taşkıngenç](https://linkedin.com/in/cetinkaantaskingenc)
 <br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ctnkaan&bg_color=20232a&color=5cceed&line=5cceed&point=ffffff&area=true&hide_border=true" width="92%"/>
 
+[![An image of @ctnkaan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctnkaan)](https://holopin.io/@ctnkaan)
